@@ -6,4 +6,3 @@ def main() -> None:
 
 
 main()
-    
