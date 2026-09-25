@@ -18,4 +18,6 @@ def simple_model(df: pd.DataFrame, feature: str):
     plt.legend()
     plt.show()
 
+    return yHat
+
 
