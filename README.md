@@ -115,13 +115,13 @@ uvicorn main:app --reload
 The API will normally be available at:
 
 ``` text
-http://127.0.0.1:8000
+https://insurance-server-virid.vercel.app/
 ```
 
 Interactive API documentation:
 
 ``` text
-http://127.0.0.1:8000/docs
+https://insurance-server-virid.vercel.app/docs
 ```
 
 ## API Endpoints
